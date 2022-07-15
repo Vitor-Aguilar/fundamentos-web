@@ -1,0 +1,38 @@
+/* Estilos da pagina index*/
+
+/* Estilo da pagina contato*/
+
+*{
+    margin: 0px;
+}
+.menu1{
+    display: flex;
+    background-color: greenyellow;
+    padding: 20px;
+}
+
+li{
+    color: red;
+    padding-left: 20px;
+    font-size: 20px;
+}
+
+li:hover{
+    color:aliceblue;
+}
+
+.contato{
+    color: rgb(123, 218, 29);
+}
+
+.tamanho{
+    font-size: 100px;
+}
+
+a{
+    text-decoration: none;
+}
+
+ul{
+    list-style-type: none;
+}
